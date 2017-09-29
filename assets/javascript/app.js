@@ -109,8 +109,8 @@ $(document).ready(function() {
         question : 'A shark\'s skeleton is made of:',
         possibleAnswers : ['A. Bone',
         'B. Muscles',
-        'C. Glue',
-        'D. Cartilage'],
+        'C. Cartilage',
+        'D. Glue'],
         flags : [false, false, true, false],
         answer : 'C. '
     };
